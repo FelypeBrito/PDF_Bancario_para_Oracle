@@ -1,0 +1,2 @@
+# PDF_Bancario_para_Oracle
+ Este projeto realiza a automação completa da coleta de comprovantes bancários enviados por e-mail (em formato PDF), extraindo informações relevantes como valor, data, chave Pix, agência, conta, entre outros, e inserindo os dados diretamente em uma base Oracle. O script também realiza a leitura contínua de uma caixa de e-mail via POP3, faz o download automático dos anexos e registra logs detalhados de processamento e falhas.
